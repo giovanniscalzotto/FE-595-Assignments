@@ -14,14 +14,4 @@ plt.ylabel('Sin and Cos', fontsize = 12)
 plt.legend(['Sin', 'Cos'], loc = "upper right", frameon = False, fontsize = 10)
 plt.title('Assignment 1', loc='left', fontsize = 20)
 plt.show()
-
-
-
-
-
-
-
-
-
-
-
+a = 2
